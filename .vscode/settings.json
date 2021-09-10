@@ -1,13 +1,18 @@
 {
   "editor.formatOnSave": true,
   "cSpell.words": [
+    "Comissao",
     "descricao",
+    "Endereco",
     "Fisica",
     "Funcionarios",
     "Juridica",
     "Locacao",
     "numeros",
     "preco",
+    "regiao",
+    "REGIOES",
+    "salario",
     "Saude"
   ]
 }
